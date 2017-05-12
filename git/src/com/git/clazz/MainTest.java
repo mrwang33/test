@@ -3,9 +3,10 @@ package com.git.clazz;
 public class MainTest {
 
 	public static void main(String[] args) {
-		new MainTest();
-		System.out.println("zaima buzaicmn");
-		System.out.println("123123132");
+		System.out.println("zaima");
+		System.out.println("zaima1");
+		System.out.println("zaima2");
+		System.out.println("zaima3");
 	}
 
 }
